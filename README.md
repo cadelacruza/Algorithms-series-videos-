@@ -1,2 +1,2 @@
-# Algorithms-series-videos-
+# Algorithms
 Source code of Algorithmic challenges solved on video.
